@@ -1,2 +1,2 @@
 # Hello-World
-#Hello I am a student and im learning C#, Python, and Javascript.
+Hello I am a student and im learning CS, Python, and Javascript.
